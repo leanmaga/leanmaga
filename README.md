@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... e-commerce and portfolio
-- 🌱 I’m currently learning ... 12 pilares
+ 🔭 I’m currently working on ... e-commerce and portfolio
+ 🌱 I’m currently learning ... 12 pilares
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leanelshark)](https://github.com/leanelshark/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leanelshark&show_icons=true&theme=dark)](https://github.com/leanelshark/github-readme-stats)
