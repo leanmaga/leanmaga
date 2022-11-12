@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leanelshark&show_icons=true&&bg_color=DEG,090979,020024,090979)](https://github.com/leanelshark/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leanelshark&show_icons=true&&bg_color=DEG,090979,020024,090979&title_color=f1f1f1&text_color=f1f1f1)](https://github.com/leanelshark/github-readme-stats)
