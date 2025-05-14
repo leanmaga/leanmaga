@@ -40,8 +40,8 @@
 - 🏦 **Intranet completa para banco** (diseño e implementación desde cero)
 - ⚙️ **Edición masiva de datos** con filtros, validaciones centralizadas y sagas
 
-> 💼 Ver más en: [leandro-magallanes.com.ar](https://leandro-magallanes.vercel.app)  
-> 🔗 Portfolio alternativo: [patagoniascript.vercel.app](https://patagoniascript.vercel.app)
+>  🔗 Portfolio alternativo: [leandro-magallanes.com.ar](https://leandro-magallanes.vercel.app)  
+> 💼 Ver más en: [patagoniascript.vercel.app](https://patagoniascript.vercel.app)
 
 ---
 
