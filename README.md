@@ -48,7 +48,7 @@
 ### 📬 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandromagallanes/)
-[![Email](https://img.shields.io/badge/Email-leandro.magallanes.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leandro.magallanes.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-leandro.magallanes.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:patagoniascript@gmail.com)
 
 ---
 
