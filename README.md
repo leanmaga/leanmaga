@@ -1,10 +1,6 @@
 <h1 align="center">¡Hola! 👋 Soy Leandro Magallanes</h1>
 <h3 align="center">Desarrollador Front-End | Fundador de PatagoniaScript 🚀</h3>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/XXXXXXX" width="150" alt="Leandro Magallanes" style="border-radius: 50%" />
-</p>
-
 ---
 
 💡 *"Dónde la creatividad se une con la funcionalidad"*  
