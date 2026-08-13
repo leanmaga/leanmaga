@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Leandro Magallanes</h1>
-<h3 align="center">Desarrollador Front-End | Fundador de PatagoniaScript 🚀</h3>
+<h3 align="center">Desarrollador FullStack | Fundador de PatagoniaScript 🚀</h3>
 
 ---
 
@@ -56,7 +56,7 @@
 
 - 👨‍💻 Desarrollando nuevas funcionalidades para proyectos reales
 - 📦 Mejorando flujos de autenticación, edición masiva, y validaciones de productos
-- 📚 Estudiando Mongo DB 🤓 (sí, ¡me encanta combinar mente y tecnología!)
+- 📚 Estudiando Mongo DB 
 
 ---
 
